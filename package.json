@@ -1,0 +1,23 @@
+{
+  "name": "@gabrox999/how-to-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Just doing how-to-npm tutorial",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mad-labs/sb-how-to-npm-tut.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mad-labs/sb-how-to-npm-tut/issues"
+  },
+  "homepage": "https://github.com/mad-labs/sb-how-to-npm-tut#readme"
+}
